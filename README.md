@@ -1,4 +1,4 @@
-![My Image](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/275550322_4634763349979562_8807951709452210968_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=19026a&_nc_ohc=NHnKh0yAFLUAX85gXY2&_nc_ht=scontent.fdac5-2.fna&oh=00_AfBuq_vOQo2QalCO5S6pwlr8EWwGHeQ1RSJz6owwh1AWOA&oe=64945443)
+![My Image](./Web Developer & UIUX Designer Presentation (1).png)
 <h1 align="center">Hi 👋, I'm Engr. Khairul Islam</h1>
 <h3 align="center">A passionate software engineer from Bangladesh.</h3>
 
