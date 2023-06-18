@@ -1,4 +1,4 @@
-![My Image](./Web Developer & UIUX Designer Presentation (1).png)
+![My Image]("./Web Developer & UIUX Designer Presentation (1).png")
 <h1 align="center">Hi 👋, I'm Engr. Khairul Islam</h1>
 <h3 align="center">A passionate software engineer from Bangladesh.</h3>
 
