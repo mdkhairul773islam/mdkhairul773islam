@@ -1,4 +1,4 @@
-![My Image](./Khairul Islam Software Engineer.png)
+![My Image](./Khairul_Islam_Software_Engineer.png)
 <h1 align="center">Hi 👋, I'm Engr. Khairul Islam</h1>
 <h3 align="center">A passionate software engineer from Bangladesh.</h3>
 
