@@ -6,12 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Zoo Family](https://zoo.family)
+- 🔭 I’m currently working on [Mir Info Systems Ltd](https://zoo.family)
 - 🔭 I’m currently working on [Ananda Mohan College](http://www.anandamohangovtcollege.edu.bd)
 
-- 🌱 I’m currently learning **Express Js**
 
-- 💬 Ask me about **React, Vue, Laravel**
+- 💬 Ask me about **React, Laravel**
 
 - 📫 How to reach me **mdkhairul773@gmail.com**
 
