@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [grameenphone.com](https://www.grameenphone.com/)
 
 
-- 💬 Ask me about **React, Laravel**
+- 💬 Ask me about **PHP, Laravel, Codeigniter, Drupal, Javascript, AngularJs 1.8, React**
 
 - 📫 How to reach me **mdkhairul773@gmail.com**
 
